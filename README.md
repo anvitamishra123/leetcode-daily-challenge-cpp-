@@ -8,6 +8,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | ------- |
 | [0035-search-insert-position](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0035-search-insert-position) |
 | [0977-squares-of-a-sorted-array](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1288-remove-covered-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,6 +17,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1288-remove-covered-intervals) |
 ## Binary Search
 |  |
 | ------- |
