@@ -31,4 +31,8 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
