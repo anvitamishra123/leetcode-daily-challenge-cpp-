@@ -50,6 +50,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | ------- |
 | [0012-integer-to-roman](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0012-integer-to-roman) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -84,4 +85,8 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0011-container-with-most-water) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
