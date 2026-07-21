@@ -6,6 +6,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0054-spiral-matrix) |
@@ -15,6 +16,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0042-trapping-rain-water) |
 | [0977-squares-of-a-sorted-array](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -74,4 +76,8 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
