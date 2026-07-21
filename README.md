@@ -42,11 +42,13 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0012-integer-to-roman) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0012-integer-to-roman) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -76,6 +78,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0012-integer-to-roman) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
 |  |
