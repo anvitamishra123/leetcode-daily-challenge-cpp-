@@ -10,6 +10,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | [0035-search-insert-position](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0054-spiral-matrix) |
+| [0485-max-consecutive-ones](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1288-remove-covered-intervals) |
