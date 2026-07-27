@@ -15,6 +15,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | [0977-squares-of-a-sorted-array](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | [0628-maximum-product-of-three-numbers](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -101,4 +103,8 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
