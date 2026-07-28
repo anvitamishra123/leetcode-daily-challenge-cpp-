@@ -30,6 +30,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | [0977-squares-of-a-sorted-array](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -60,6 +61,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | [0012-integer-to-roman](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0012-integer-to-roman) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -107,4 +109,8 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
