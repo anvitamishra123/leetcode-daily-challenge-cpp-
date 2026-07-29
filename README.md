@@ -52,6 +52,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | [0012-integer-to-roman](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0012-integer-to-roman) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -62,6 +63,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -92,6 +94,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | ------- |
 | [0012-integer-to-roman](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0012-integer-to-roman) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -113,4 +116,9 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
