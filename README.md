@@ -51,6 +51,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | ------- |
 | [0012-integer-to-roman](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0012-integer-to-roman) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3536-maximum-product-of-two-digits) |
@@ -61,6 +62,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | ------- |
 | [0012-integer-to-roman](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0012-integer-to-roman) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -99,6 +101,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
 |  |
 | ------- |
