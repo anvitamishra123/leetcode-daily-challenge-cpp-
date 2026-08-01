@@ -11,6 +11,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | [0042-trapping-rain-water](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0054-spiral-matrix) |
 | [0485-max-consecutive-ones](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1260-shift-2d-grid) |
@@ -51,6 +52,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0012-integer-to-roman) |
+| [0486-predict-the-winner](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -77,6 +79,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0042-trapping-rain-water) |
+| [0486-predict-the-winner](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -93,6 +96,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,4 +133,8 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
