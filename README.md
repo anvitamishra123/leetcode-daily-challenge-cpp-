@@ -7,6 +7,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0054-spiral-matrix) |
@@ -64,6 +65,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0014-longest-common-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -137,4 +139,8 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0486-predict-the-winner) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
