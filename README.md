@@ -18,6 +18,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | [0977-squares-of-a-sorted-array](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1288-remove-covered-intervals) |
+| [1406-stone-game-iii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
@@ -57,6 +58,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | [0486-predict-the-winner](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -85,6 +87,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | [0042-trapping-rain-water](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -143,8 +146,17 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | ------- |
 | [0486-predict-the-winner](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1406-stone-game-iii) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0014-longest-common-prefix) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
