@@ -11,6 +11,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | [0035-search-insert-position](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0054-spiral-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0485-max-consecutive-ones](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -92,10 +93,12 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0084-largest-rectangle-in-histogram) |
 ## Linked List
 |  |
 | ------- |
@@ -159,4 +162,8 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1406-stone-game-iii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
