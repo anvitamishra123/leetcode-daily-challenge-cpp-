@@ -17,6 +17,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | [0628-maximum-product-of-three-numbers](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1288-remove-covered-intervals) |
 | [1406-stone-game-iii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1406-stone-game-iii) |
@@ -42,6 +43,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0035-search-insert-position) |
+| [1004-max-consecutive-ones-iii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -82,6 +84,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1004-max-consecutive-ones-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -172,4 +175,5 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
