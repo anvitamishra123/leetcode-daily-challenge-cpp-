@@ -74,6 +74,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | [0003-longest-substring-without-repeating-characters](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0014-longest-common-prefix) |
+| [0424-longest-repeating-character-replacement](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0424-longest-repeating-character-replacement) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -117,6 +118,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0012-integer-to-roman) |
+| [0424-longest-repeating-character-replacement](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0424-longest-repeating-character-replacement) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -175,5 +177,6 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
