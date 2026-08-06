@@ -69,6 +69,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0014-longest-common-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -111,6 +112,7 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0012-integer-to-roman) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -166,4 +168,8 @@ Solving LeetCode problems every day to improve Data Structures and Algorithms.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0084-largest-rectangle-in-histogram) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anvitamishra123/leetcode-daily-challenge-cpp-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
